@@ -13,3 +13,7 @@ svg{
 .download{
   margin-top: 16px;
 }
+
+li {
+  list-style-type: none;
+ }
